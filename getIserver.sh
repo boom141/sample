@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -OJL https://download.wetransfer.com/usgv/4cea34b2ea1993af12eaa722c88d5b5d20240417052254/bb1737ebc1359fafbc26102e8c96743fb11c91fd/supermap-iserver-1111-23210-7061-linux-x64-deploy-usv3694.tar.gz?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MTMzMzQxMDMsImlhdCI6MTcxMzMzMzUwMywiZG93bmxvYWRfaWQiOiI3NDc0NDYyMy1kOWE5LTQxNTctODdlOC1mNWY4ZTlmZjhmNmQiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.Y-lKOz2S_c2jxy1nFcSgZ_BjjynATZuqh-GJRrw8r-8
